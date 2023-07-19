@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/Improved_banker_algorithm"/>
+    <qresource prefix="/">
+        <file>1.qss</file>
+    </qresource>
+</RCC>
